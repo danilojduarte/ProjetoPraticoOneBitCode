@@ -1,0 +1,9 @@
+:root {
+    --color-primary:lightcoral;
+    --color-secundary: dimgrey;
+    --color-tertiary: gainsboro;
+}
+
+body {
+    background-color: var(--cor-primary);
+}
