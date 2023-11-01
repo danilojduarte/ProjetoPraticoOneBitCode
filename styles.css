@@ -6,4 +6,5 @@
 
 body {
     background-color: var(--cor-primary);
+    font-size: 15px;
 }
