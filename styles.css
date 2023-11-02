@@ -30,3 +30,38 @@ body {
     border-top-right-radius: 20px;
     text-align: center;
 }
+
+.tips-form {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.form-input {
+    background-color: #fff;
+    width: 40px;
+    padding: 5px 5px 8px 8px;
+}
+
+.form-input:focus {
+    border: 3px solid var(--color-primary);
+    outline: none;
+}
+
+.form-select {
+    width: 180px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.form-submit {
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 30px auto;
+    background-color: var(--color-primary);
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    font-size: 17px;
+    color: #fff;
+}
